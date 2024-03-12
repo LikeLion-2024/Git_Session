@@ -1,1 +1,1 @@
-# Session
+# 멋사 12기 Session
